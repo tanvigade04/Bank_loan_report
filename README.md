@@ -1,7 +1,7 @@
-# Bank Loan Report
+# Bank Loan Report(EXCEL)
 
 ## Problem Statement: 
-In order to monitor and assess our bank's lending activities and performance, create a comprehensive Bank Loan Report.
+In order to monitor and assess bank's lending activities and performance, create a comprehensive Bank Loan Report.
 
 ## Objective:
 The primary objective of the detail Dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into loan portfolio, borrower profiles, and loan performance.
